@@ -1,5 +1,3 @@
-Dear Abel, please note the following details when setting up the repository and information:
-
 -----------------------------------------------------
 Band order (both base dataset and isolated test set)
 -----------------------------------------------------
@@ -29,4 +27,5 @@ Shape: (128, 128)
 Dtype: uint8
 Channels: 1 (grayscale)
 Unique values: [0 1]
+
 Value range: 0 to 1
