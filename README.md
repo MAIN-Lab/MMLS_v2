@@ -6,6 +6,7 @@ We present MMLSv2, a dataset for landslide segmentation on Martian surfaces. MML
 > [**Click here to view the Competition on Codabench**](https://www.codabench.org/competitions/12305/?secret_key=77a18ac3-b954-4eea-804b-987a5c9bf944)
 
 > **Dataset download:** [link here](<https://drive.google.com/drive/folders/1K0PgbDmaHtiA_iQD9mLhRY85Mh8zW0VT?usp=sharing>)
+![MMLSv2 Dataset Sample](images/fig_1_2.png)
 
 ---
 
