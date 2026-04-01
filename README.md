@@ -51,6 +51,6 @@ If you use this dataset in your research or participate in the challenge, please
 @article{mmlsv2_2026,
   title={MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery},
   author={Paheding, Sidike and Reyes-Angulo, Abel and Ramos, Leo Thomas and Sappa, Angel D. and Rajaneesh, A. and Hiral, P. B. and Sajin Kumar, K. S. and Oommen, Thomas},
-  journal={arXiv preprint},
+  journal={Proceedings of IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshop on AI4Space},
   year={2026}
 }
