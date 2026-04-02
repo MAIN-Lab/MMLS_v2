@@ -48,7 +48,7 @@ The **MMLSv2** dataset consists of seven bands, each representing different spec
 | B6   | Thermal inertia |
 | B7   | Grayscale   |
 
-<img src="./images/samples_mmlsv2.png" width="80%"/>
+<img src="./images/sample_images_mmlsv2.png" width="80%"/>
 
 ### Image stats and format
 
