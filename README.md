@@ -105,14 +105,25 @@ Distributed under MIT license. See `LICENSE` for more information.
 
 ## Citation
 
-If you find this dataset useful, please star ⭐️⭐️⭐️ our repo and cite our paper.
+If you find this dataset useful, please star ⭐️⭐️⭐️ our repo and cite our papers.
 
 ```bibtex
-@InProceedings{mmlsv2_2026,
-  title={MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery},
-  author={Paheding, Sidike and Reyes-Angulo, Abel and Ramos, Leo Thomas and Sappa, Angel D. and Rajaneesh, A. and Hiral, P. B. and Sajin Kumar, K. S. and Oommen, Thomas},
-  booktitle={Proceedings of IEEE/CVF Computer Vision and Pattern Recognition (CVPR) Workshops},
-  year={2026}
+@InProceedings{Paheding_2026_CVPR,
+    author    = {Paheding, Sidike and Reyes-Angulo, Abel A. and Ramos, Leo Thomas and Sappa, Angel D. and A, Rajaneesh and B, Hiral P and K.S., Sajin Kumar and Oommen, Thomas},
+    title     = {MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {10329-10338}
+}
+
+@InProceedings{Ramos_2026_CVPR,
+    author    = {Ramos, Leo Thomas and Reyes-Angulo, Abel and Paheding, Sidike and Sappa, Angel D.},
+    title     = {1st Mars Landslide Segmentation Challenge - PBVS 2026},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {7132-7141}
 }
 ```
 
