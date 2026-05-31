@@ -6,6 +6,7 @@
 
 ## Announcements
 
+- MMLSv2 papers are now available at CVF repository
 - MMLSv2 is available for download via Google Drive
 - MMLSv2 has been accepted at the 4th Workshop on AI for Space (AI4Space) @ CVPR 2026 📣📣📣
 - MMLSv2 preprint is available on [arXiv](https://arxiv.org/abs/2602.08112)
@@ -17,7 +18,7 @@ We present MMLSv2, a dataset for landslide segmentation on Martian surfaces. MML
 
 ## Paper
 
-The preprint of MMLSv2 is available at [arXiv](https://arxiv.org/abs/2602.08112).
+The MMLSv2 paper is available [here](https://openaccess.thecvf.com/content/CVPR2026W/AI4Space/html/Paheding_MMLSv2_A_Multimodal_Dataset_for_Martian_Landslide_Detection_in_Remote_CVPRW_2026_paper.html), while the report on the 1st Mars Landslide Segmentation Challenge is available [here](https://openaccess.thecvf.com/content/CVPR2026W/PBVS/html/Ramos_1st_Mars_Landslide_Segmentation_Challenge_-_PBVS_2026_CVPRW_2026_paper.html).
 
 ## Dataset download
 
