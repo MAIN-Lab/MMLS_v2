@@ -1,7 +1,7 @@
 # MMLSv2: A Multimodal Dataset for Martian Landslide Detection in Remote Sensing Imagery
 
 <p align="center">
-<img src="./images/fig_1_2.png" width="100%"/>
+<img src="./assets/fig_1_2.png" width="100%"/>
 </p>
 
 ## Announcements
@@ -51,7 +51,7 @@ The **MMLSv2** dataset consists of seven bands, each representing different spec
 | B6   | Thermal inertia |
 | B7   | Grayscale   |
 
-<img src="./images/sample_images_mmlsv2.png" width="75%"/>
+<img src="./assets/sample_images_mmlsv2.png" width="75%"/>
 
 ### Image stats and format
 
