@@ -23,7 +23,7 @@ The MMLSv2 paper is available [here](https://openaccess.thecvf.com/content/CVPR2
 
 ## Dataset download
 
-The dataset is available for download via Google Drive [here](https://drive.google.com/drive/folders/1K0PgbDmaHtiA_iQD9mLhRY85Mh8zW0VT?usp=sharing) 
+The dataset is available for download via [Hugging Face](https://huggingface.co/datasets/MarsLS/MMLSv2) or alternatively via [Google Drive](https://drive.google.com/drive/folders/1K0PgbDmaHtiA_iQD9mLhRY85Mh8zW0VT?usp=sharing) 
 
 ## Dataset description
 
