@@ -104,6 +104,10 @@ The following table reports the performance of different segmentation models eva
 
 Distributed under MIT license. See `LICENSE` for more information.
 
+## Isolated test clarification
+
+Due to the inclusion of the MMLSv2 dataset in the Mars Landslide Segmentation Challenge at PBVS/CVPR, the isolated test set will not be released at this time. It will be made available in the near future.
+
 ## Citation
 
 If you find this dataset useful, please star ⭐️⭐️⭐️ our repo and cite our papers.
