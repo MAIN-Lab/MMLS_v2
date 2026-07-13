@@ -6,6 +6,7 @@
 
 ## Announcements
 
+- MMLSv2 is now available for download via [Hugging Face](https://huggingface.co/datasets/MarsLS/MMLSv2)
 - MMLSv2 papers are now available at CVF repository
 - MMLSv2 is available for download via Google Drive
 - MMLSv2 has been accepted at the 4th Workshop on AI for Space (AI4Space) @ CVPR 2026 📣📣📣
